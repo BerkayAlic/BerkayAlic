@@ -14,14 +14,14 @@
 I'm Berkay! I have found my passion in web development. I spend most of my time in front of the screen and trying to be better day by day.
 
 - 🔭 I’m currently working on Car Rental Project 
-- 🌱 I’m currently learning C# and Angular
-- 📫 How to reach me: berkayalic2@gmail.com 
+- 🌱 I’m currently learning Java and React
+- 📫 How to reach me:  berkayalic2@gmail.com 
 <!-- - :man_student: I'm from Yıldız Technical University -->
 <!-- //- ⚡ Fun fact: I love camping and taking landscape photos// -->
   
 ## 2. Contact me :mailbox:
-[![Mail Badge](https://img.shields.io/badge/-yigit.arpacioglu@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:berkayalic2@gmail.com) <br>
-[![Linkedin Badge](https://img.shields.io/badge/-YiğitArpacioglu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-aliç-b61661171/) 
+<!-- [![Mail Badge](https://img.shields.io/badge/-yigit.arpacioglu@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:berkayalic2@gmail.com) <br>
+[![Linkedin Badge](https://img.shields.io/badge/-YiğitArpacioglu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-aliç-b61661171/)  -->
 
 ## 3. :wrench: Technologies 
 <br>
@@ -39,16 +39,6 @@ I'm Berkay! I have found my passion in web development. I spend most of my time 
 <br>
 
 
-## 4. :bar_chart: Stats
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitarpacioglu&hide=contribs,prs,issues&show_icons=true&theme=radical)
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
 
