@@ -20,7 +20,7 @@ I'm Berkay! I have found my passion in web development. I spend most of my time 
 <!-- //- ⚡ Fun fact: I love camping and taking landscape photos// -->
   
 ## 2. Contact me :mailbox:
-<!-- [![Mail Badge](https://img.shields.io/badge/-yigit.arpacioglu@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:berkayalic2@gmail.com) <br>
+<!-- [![Mail Badge](https://img.shields.io/badge/%3CM%3E-%3Cberkayalic2%40gmail.com%3E-brightgreen)](mailto:berkayalic2@gmail.com) <br>
 [![Linkedin Badge](https://img.shields.io/badge/-YiğitArpacioglu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-aliç-b61661171/)  -->
 
 ## 3. :wrench: Technologies 
