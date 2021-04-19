@@ -3,12 +3,9 @@
 <br>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BerkayAlic
-.visitor-badge) 
-<img src="https://img.shields.io/github/stars/BerkayAlic
-?color=orange&label=Stars">
-<img src="https://img.shields.io/github/followers/BerkayAlic
-?color=success&label=Followers">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BerkayAlic.visitor-badge) 
+<img src="https://img.shields.io/github/stars/BerkayAlic?color=orange&label=Stars">
+<img src="https://img.shields.io/github/followers/BerkayAlic?color=success&label=Followers">
 
 
 
